@@ -11,6 +11,9 @@ This is a [showoff](http://github.com/schacon/showoff) presentation.
 Or, you can run it via rack (e.g., using Passenger) by just installing the showoff gem
 and pointing to the rackup file (config.ru).
 
+This presentation may be running live, and can be accessed by going to
+http://olfi2012-advanced-puppet.frymanandassociates.net
+
 All original content is made available under a Creative Commons Attribution-Share Alike 3.0 License.
 Content from other sources is governed by any licenses imposed by the respective authors.
 
